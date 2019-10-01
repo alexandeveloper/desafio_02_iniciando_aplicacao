@@ -11,11 +11,9 @@ docker run --name container_meetup -e POSTGRES_USER=usuario_meetup -e POSTGRES_D
 
 * A palavra secreta utilizada no MD5
 
-Secret keyword                    
-md5parameetuprocketseat
+Secret keyword - md5parameetuprocketseat
 
-Secret MD5 
-6f949b1808d3b5b0228973e20dc20dfd
+Secret MD5 - 6f949b1808d3b5b0228973e20dc20dfd
 
 
 **Com este desafio é possível:**
